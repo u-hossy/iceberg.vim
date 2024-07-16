@@ -29,7 +29,7 @@ if &background == 'light'
   hi Conceal ctermbg=254 ctermfg=244 guibg=#e8e9ec guifg=#8389a3
   hi Constant ctermfg=97 guifg=#7759b4
   hi Cursor ctermbg=237 ctermfg=254 guibg=#33374c guifg=#e8e9ec
-  hi CursorLineNr cterm=NONE ctermbg=251 ctermfg=237 guibg=#cad0de guifg=#576a9e
+  hi CursorLineNr cterm=NONE ctermbg=NONE ctermfg=221 guibg=#cad0de guifg=#576a9e
   hi Delimiter ctermfg=237 guifg=#33374c
   hi DiffAdd ctermbg=79 ctermfg=23 guibg=#d4dbd1 guifg=#475946
   hi DiffChange ctermbg=116 ctermfg=24 guibg=#ced9e1 guifg=#375570
